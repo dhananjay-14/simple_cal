@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #e3e0dc;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    border: 4px solid #7d8689;
+    height: 506px;
+    padding: 1px;
+    width: 348px;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.display_area {
+    height: 167px;
+    background-color: #f3d068;
+}
+#input_value{
+    opacity: 30%;
+    border: none;
+    height: 90px;
+    width: 300px;
+    border-radius: 5px;
+    margin-left: 47px;
+    margin-top: 70px;
+    
+}
+.buttons{
+    height: 333px
+}
+.top_btn{
+    height: 65px;
+    width: 86px;
+    border-radius: 15px;
+    background: white;
+    border: 1px solid gainsboro;
+}
+table{
+    background: honeydew;
+}
+.bottom_btn{
+    height: 65px;
+    width: 86px;
+    border-radius: 15px;
+    background: white;
+    border: 1px solid gainsboro;
+}
+#zero_btn{
+    height: 65px;
+    width: 172px;
+    border-radius: 15px;
+    background: white;
+    border: 1px solid gainsboro;
+}
+.sp_btn{
+    height: 65px;
+    width: 86px;
+    border-radius: 15px;
+    background: rgb(225 223 220);
+    border: 1px solid gainsboro;
+}
+
+#equal_btn{
+    height: 65px;
+    width: 86px;
+    border-radius: 15px;
+    background: #f3d068;
+    border: 1px solid gainsboro;
+}
+button{
+    font-weight: bold;
+    font-family: cursive;
+    font-size: x-large;
+
+}
+#input_value{
+   font-size: xxx-large; 
+}
